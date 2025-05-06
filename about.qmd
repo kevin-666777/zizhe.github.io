@@ -1,0 +1,42 @@
+---
+title: "Zizhe Zhou"
+---
+![me](me.jpg)
+Hi! I'm Zizhe Zhou, an undergraduate studying Economics and Mathematics at the University of Colorado Denver.  
+I'm passionate about data analysis, applied math, and telling stories with numbers.
+![pg](penguin.jpg)
+
+##  Skills
+
+- Python, R, SAS, SQL
+- Data visualization & modeling
+- Machine learning (Scikit-Learn, PyTorch)
+
+##  Education
+
+- B.A. in Economics & Mathematics – University of Colorado Denver (expected 2026)
+- Minor in Big Data Science & Business Analytics
+- GPA: 3.92 
+
+## Hobby
+- Play Basketball
+- Play Computer games
+- Plane Spotting(I want to talk in detail)
+- This is Lufthansa B747-8 flying from Los Angeles to Frankfurt
+- You can also spot Qantas, Korean Air, and Emirates aircraft parked at the Tom Bradley International Terminal. This terminal is where many international students first arrive in the U.S.—and where they later bid farewell as they return to their home countries.
+- You can take CZ328, China Southern Airlines to Guangzhou. That's my hometown
+![Lufthansa B747](Lufthansa.jpg)
+- Here is the picture of TB at night. 
+- The blue A380 is China Southern Airline. But after the pandemic, they were all retired and change to B787
+
+![TB](TB at night.jpg)
+![CZ](CZ.jpg)
+
+- Do you know? Denver now have A380! It just launched a new route to Munich operated by Lufthansa A380! The following picture is from tiktok. I really want to see it!
+![DEN](DEN.jpg)
+
+##  Contact Me
+
+- [<i class="bi bi-envelope"></i> Email](mailto:yourname@example.com)
+- [<i class="bi bi-github"></i> GitHub](https://github.com/)
+- [<i class="bi bi-tiktok"></i> TikTok](https://www.tiktok.com/)
